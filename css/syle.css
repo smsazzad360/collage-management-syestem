@@ -196,7 +196,6 @@ transition: .9s all;
     font-size: 15px;
     font-family: var(--robotos);
     cursor: pointer;
-   
     transition: 0.8s;
     position: relative;
     overflow: hidden;

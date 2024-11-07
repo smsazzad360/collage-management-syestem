@@ -22,7 +22,7 @@
     /* landing section start */
     .custom-nav{
       /* background-color:#edf0f3; */
-    
+     
     }
     .custom-heighlight{
       font-size: 2.2rem;
@@ -40,7 +40,7 @@
     @media (max-width:990px){
       /* navbar-start */
       .custom-nav{
-       
+      
       }
  
       .navbar input{
@@ -54,8 +54,7 @@
       }
       .nav-btn-div{
         display: flex;
-        justify-content: space-between;
-        margin-left:-5px;
+      
       } 
       .nav-btn-div a{
         margin-left:px;
@@ -132,7 +131,7 @@
       }
       .cover{
            height: auto;
-  
+        ;
      
        }
        .cover{
